@@ -1,0 +1,24 @@
+.nav-tabs {
+  justify-content: center;
+}
+.nav-link {
+  color: #000;
+  font-weight: 600;
+}
+
+.grey {
+  background-color: #DCDCDC;
+}
+
+.blue {
+  background-color: #E0FFFF;
+}
+
+.green {
+  background-color: #90EE90;
+}
+
+.red {
+  background-color: #DC143C;
+}
+

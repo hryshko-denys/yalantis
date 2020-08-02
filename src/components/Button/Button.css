@@ -1,0 +1,12 @@
+.center {
+  position: relative;
+  display: grid;
+  place-items: center;
+  margin: 40px 0;
+}
+
+.loading {
+  position: absolute;
+  top: -15px;
+  right: calc(50% + 80px);
+}
