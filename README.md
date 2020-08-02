@@ -1,9 +1,7 @@
-# React ToDo App
-[DEMO LINK](https://hryshko-denys.github.io/name/)
+# Yalantis test task
+[DEMO LINK](https://hryshko-denys.github.io/yalantis)
 
 ## Tech stack
 - JS
 - React
-
-
-## Example
+- Bootstrap
